@@ -1,0 +1,14 @@
+In summary, Information Gain is a measure used to determine the relevance of an attribute in making decisions within a decision tree. It helps the algorithm decide which attribute to use for splitting the dataset at each node, aiming to create a decision tree that effectively classifies instances in the training data and generalizes well to new, unseen data.
+Information Gain is used to measure the effectiveness of a particular attribute in classifying the training data. It helps the algorithm decide which attribute to split on at each node of the tree.
+
+Here's a breakdown of how Information Gain is calculated and used:
+
+Entropy:
+
+Entropy is a measure of impurity or disorder in a set of data.
+For a binary classification problem, entropy is calculated using the formula:
+Entropy
+Entropy is 0 when a dataset contains only one class (pure dataset), and it increases as the mixture of classes in the dataset becomes more balanced.
+Information Gain:
+
+Information Gain is used to measure the effectiveness of an attribute in reducing uncertainty (entropy) in the dataset.

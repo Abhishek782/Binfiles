@@ -1,0 +1,15 @@
+Outlook,Temperature,Humidity,Windy,PlayTennis
+Sunny,85,85,FALSE,No
+Sunny,80,90,TRUE,No
+Overcast,83,78,FALSE,Yes
+Rain,70,96,FALSE,Yes
+Rain,68,80,FALSE,Yes
+Rain,65,70,TRUE,No
+Overcast,64,65,TRUE,Yes
+Sunny,72,95,FALSE,No
+Sunny,69,70,FALSE,Yes
+Rain,75,80,FALSE,Yes
+Sunny,75,70,TRUE,Yes
+Overcast,72,90,TRUE,Yes
+Overcast,81,75,FALSE,Yes
+Rain,71,91,TRUE,No

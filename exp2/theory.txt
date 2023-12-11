@@ -1,0 +1,27 @@
+Data normalization is a technique used in data mining to transform the values of a dataset into a common scale. This is important because many machine learning algorithms are sensitive to the scale of the input features and can produce better results when the data is normalized.
+Min-Max normalization: This technique scales the values of a feature to a range between 0 and 1. This is done by subtracting the minimum value of the feature from each value, and then dividing by the range of the feature.
+Z-score normalization: This technique scales the values of a feature to have a mean of 0 and a standard deviation of 1. This is done by subtracting the mean of the feature from each value, and then dividing by the standard deviation.
+. In simple words, when multiple attributes are there but attributes have values on different scales, this may lead to poor data models while performing data mining operations
+Applications
+Min-Max Normalization:
+Machine Learning Algorithms:
+
+Neural Networks: Min-Max normalization is often used to scale input features in neural networks to a specific range, preventing certain features from dominating the learning process.
+K-Means Clustering: Normalizing data to a specific range can improve the performance of distance-based algorithms like K-Means.
+Image Processing:
+
+Pixel Intensity Scaling: In image processing, pixel values are often normalized to a specific range to improve contrast and facilitate further analysis.
+Financial Data:
+
+Stock Prices: When comparing stock prices over different periods, normalization can be used to scale the values to a consistent range.
+
+Z-score Normalization (Standardization):
+Statistical Analysis:
+
+Hypothesis Testing: Z-score normalization is used in hypothesis testing to standardize variables and compare them on a common scale.
+Outlier Detection:
+
+Identification of Outliers: Standardization helps in identifying outliers by expressing data points in terms of standard deviations from the mean.
+Quality Control:
+
+Manufacturing Processes: Z-score normalization is employed in quality control to standardize measurements and identify products or processes that deviate significantly from the norm.

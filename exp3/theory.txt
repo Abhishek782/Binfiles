@@ -1,0 +1,7 @@
+Data binning, bucketing is a data pre-processing method used to minimize the effects of small observation errors. The original data values are divided into small intervals known as bins and then they are replaced by a general value calculated for that bin. This has a smoothing effect on the input data and may also reduce the chances of overfitting in the case of small datasets
+There are 2 methods of dividing data into bins:  
+
+Equal Frequency Binning: bins have an equal frequency.
+Equal Width Binning : bins have equal width with a range of each bin are defined as [min + w], [min + 2w] …. [min + nw] where w = (max – min) / (no of bins).
+
+Overfitting is a phenomenon that occurs in machine learning when a model learns the training data too well, including the noise or random fluctuations in the data, to the extent that it negatively impacts its performance on new, unseen data. In other words, an overfit model performs well on the training data but fails to generalize effectively to new, unseen examples

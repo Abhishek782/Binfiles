@@ -1,0 +1,5 @@
+Column\row,,Bollywood,,,Tollywood,,,Total,,
+,Count,t-weight,d-weight,Count,t-weight,d-weight,Count,t-weight,d-weight
+TV,80,25.0,40.0,240,75.0,30.0,320,100.0,32.0
+PC,120,17.647058823529413,60.0,560,82.35294117647058,70.0,680,100.0,68.0
+Total,200,20.0,100.0,800,80.0,100.0,1000,100,100
